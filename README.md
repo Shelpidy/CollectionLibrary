@@ -13,7 +13,7 @@ pip install library-name
 python
 Copy code
 ```py
-from library_name import Collection
+from Collection import Collection
 
 # Create a new collection
 my_collection = Collection('my_collection')
