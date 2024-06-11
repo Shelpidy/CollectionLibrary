@@ -9,9 +9,10 @@ Use the package manager pip to install Library Name.
 bash
 Copy code
 pip install library-name
-Usage
+## Usage
 python
 Copy code
+```py
 from library_name import Collection
 
 # Create a new collection
@@ -27,3 +28,4 @@ print(result)
 
 # Print the data in the collection as a table in the terminal
 my_collection.print_table()
+```
